@@ -3,3 +3,8 @@
     width: 240px;
     height: 900px;
 }
+
+.divider {
+    background-color: #6bc0c0;
+    height: 1px;
+}
