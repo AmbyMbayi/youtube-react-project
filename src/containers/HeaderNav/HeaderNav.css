@@ -1,0 +1,83 @@
+.navbar__header {
+    display: flex;
+    align-items: center;
+    background-color: teal;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.input__form {
+    width: 550px;
+    margin-left: 400px;
+}
+
+.image__logo {
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.image__logo img {
+    width: 50px;
+    height: 35px;
+}
+
+.image__logo h2 {
+    font-size: 20px;
+    margin-left: 10px;
+    letter-spacing: 4px;
+}
+
+.search__input input {
+    padding: 10px 10px;
+    width: 100%;
+    outline: none;
+    font-size: 16px;
+    border-radius: 50px;
+    border: none;
+}
+
+.search__input i {
+    background-color: rgb(168, 165, 165);
+    padding: 12px 15px;
+    color: white;
+    position: absolute;
+    top: 10px;
+    right: 800px;
+    font-size: 20px;
+}
+
+.right__icons {
+    margin-left: auto;
+    order: 2;
+    font-size: 24px;
+}
+
+.right__icons i {
+    margin-right: 40px;
+}
+
+.microphone i {
+    width: fit-content;
+    margin-left: 40px;
+    font-size: 25px;
+}
+
+@media (min-width: 480px) and (max-width: 768px) {
+    body {
+        background-color: red;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 992px) {
+    body {
+        background-color: yellow;
+    }
+}
+
+@media (min-width: 993px) and (max-width: 1500px) {
+    body {
+        background-color: green;
+    }
+}
