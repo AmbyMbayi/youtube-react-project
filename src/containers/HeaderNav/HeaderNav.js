@@ -1,7 +1,7 @@
 import './HeaderNav.css';
 
 import React, { Component } from 'react';
-import logo from '../../assets/images/logo.png';
+import logo from '../../assets/images/logo_white.png';
 
 export class HeaderNav extends Component {
 	render() {

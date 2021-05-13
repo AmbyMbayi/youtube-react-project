@@ -16,6 +16,7 @@
     display: flex;
     align-items: center;
     color: white;
+    margin-left: 20px;
 }
 
 .image__logo img {
@@ -27,6 +28,10 @@
     font-size: 20px;
     margin-left: 10px;
     letter-spacing: 4px;
+}
+
+i {
+    color: white;
 }
 
 .search__input input {
@@ -79,5 +84,9 @@
 @media (min-width: 993px) and (max-width: 1500px) {
     body {
         background-color: green;
+    }
+    .input__form {
+        margin-left: 200px;
+        width: 450px;
     }
 }
