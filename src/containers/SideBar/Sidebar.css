@@ -2,9 +2,14 @@
     background-color: #008080;
     width: 240px;
     height: 900px;
+    border-top: solid 1px #6bc0c0;
+    position: fixed;
+    overflow-y: scroll;
 }
 
 .divider {
     background-color: #6bc0c0;
     height: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }

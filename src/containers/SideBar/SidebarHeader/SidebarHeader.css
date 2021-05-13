@@ -1,0 +1,7 @@
+.sidebar__header {
+    text-transform: uppercase;
+    color: rgb(240, 234, 234);
+    margin-top: 20px;
+    margin-left: 30px;
+    width: fit-content;
+}

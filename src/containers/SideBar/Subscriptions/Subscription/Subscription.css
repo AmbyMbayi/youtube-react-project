@@ -1,0 +1,33 @@
+.subscription__details {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 25px;
+    margin-top: 25px;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {}
+
+::-webkit-scrollbar-thumb {
+    background-color: rgb(1, 151, 151);
+    border-radius: 10px;
+}
+
+.subscription__details img {
+    border-radius: 50%;
+}
+
+.subscription__details label {
+    color: white;
+    margin-left: 20px;
+}
+
+.broadcast__icon {
+    margin-left: auto;
+    font-size: 20px;
+    color: rgb(63, 253, 253);
+}
