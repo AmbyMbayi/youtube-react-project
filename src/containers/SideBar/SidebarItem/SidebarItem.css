@@ -1,0 +1,22 @@
+.sidebar__item {
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.sidebar__item:hover {
+    background-color: #026e6e;
+    cursor: pointer;
+}
+
+.sidebar__item label {
+    margin-left: 20px;
+    font-size: 18x;
+}
+
+.sidebar__item i {
+    font-size: 25px;
+    margin-left: 15px;
+}
