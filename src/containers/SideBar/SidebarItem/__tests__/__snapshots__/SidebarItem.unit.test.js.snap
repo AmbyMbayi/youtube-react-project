@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SidebarItem renders SidebarItem taht navigates to /feed/trending 1`] = `
+<div
+  className="sidebar__item"
+>
+  <i />
+  <label>
+    trending
+  </label>
+</div>
+`;
+
+exports[`SidebarItem renders empty SidebarItem 1`] = `
+<div
+  className="sidebar__item"
+>
+  <i />
+  <label />
+</div>
+`;

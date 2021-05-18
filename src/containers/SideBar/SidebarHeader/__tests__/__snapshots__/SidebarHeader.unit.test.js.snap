@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SidebarHeader render empty SidebarItem 1`] = `
+<div>
+  <p
+    className="sidebar__header"
+  />
+</div>
+`;
+
+exports[`SidebarHeader renders sidebarheadings 1`] = `
+<div>
+  <p
+    className="sidebar__header"
+  >
+    Libray
+  </p>
+</div>
+`;

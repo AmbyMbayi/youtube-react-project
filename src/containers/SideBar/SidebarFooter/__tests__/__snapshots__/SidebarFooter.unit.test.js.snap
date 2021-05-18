@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders SidebarFooter 1`] = `
+<div
+  className="footer__block"
+>
+  <div>
+    A(c) TealTube using React
+  </div>
+</div>
+`;

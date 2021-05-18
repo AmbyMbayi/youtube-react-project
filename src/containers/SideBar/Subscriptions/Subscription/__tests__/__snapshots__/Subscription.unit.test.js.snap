@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Subscription renders Subscription  1`] = `
+<div>
+  <div
+    className="subscription__details"
+  >
+    <img
+      alt=""
+      src="http://via.placeholder.com/28x28"
+    />
+    <label>
+      subscriptions
+    </label>
+    <i
+      class="bx bx-broadcast broadcast__icon"
+    />
+  </div>
+</div>
+`;
+
+exports[`Subscription renders Subscription with labels  1`] = `
+<div>
+  <div
+    className="subscription__details"
+  >
+    <img
+      alt=""
+      src="http://via.placeholder.com/28x28"
+    />
+    <label>
+      subscriptions
+    </label>
+    <i
+      class="bx bx-broadcast broadcast__icon"
+    />
+  </div>
+</div>
+`;
+
+exports[`Subscription renders empty Subscription 1`] = `
+<div>
+  <div
+    className="subscription__details"
+  >
+    <img
+      alt=""
+      src="http://via.placeholder.com/28x28"
+    />
+    <label />
+    <i
+      class="bx bx-broadcast broadcast__icon"
+    />
+  </div>
+</div>
+`;
