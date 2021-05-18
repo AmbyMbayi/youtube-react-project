@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VideoGrid renders with title props 1`] = `
+<div
+  className="grid__section"
+>
+  <p
+    className="grid__title"
+  >
+    trending
+  </p>
+  <div
+    className="video__grid"
+  >
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+  </div>
+  <div
+    className="grid__divider"
+  />
+</div>
+`;
+
+exports[`VideoGrid renders without props 1`] = `
+<div
+  className="grid__section"
+>
+  <p
+    className="grid__title"
+  />
+  <div
+    className="video__grid"
+  >
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+    <VideoPreview />
+  </div>
+  <div
+    className="grid__divider"
+  />
+</div>
+`;

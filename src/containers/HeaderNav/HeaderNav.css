@@ -4,7 +4,9 @@
     background-color: teal;
     padding-bottom: 10px;
     padding-top: 10px;
-    box-shadow: 0px 15px 17px -15px rgba(0, 0, 0, 0.5);
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
 }
 
 .input__form {

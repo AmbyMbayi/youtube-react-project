@@ -1,10 +1,11 @@
 .sidebar {
     background-color: #008080;
+    top: 55px;
     width: 240px;
-    height: 900px;
-    border-top: solid 1px #6bc0c0;
+    height: 1100px;
     position: fixed;
     overflow-y: scroll;
+    padding-top: 15px;
 }
 
 .divider {

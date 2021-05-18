@@ -1,0 +1,23 @@
+.grid__section {
+    padding-top: 10px;
+}
+
+.grid__title {
+    width: fit-content;
+    font-size: 18px;
+    margin-left: 60px;
+}
+
+.video__grid {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 40px;
+}
+
+.grid__divider {
+    width: 1550px;
+    margin-left: 50px;
+    height: 1px;
+    background-color: rgb(182, 177, 177);
+    margin-bottom: 20px;
+}
