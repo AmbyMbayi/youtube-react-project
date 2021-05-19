@@ -2,13 +2,16 @@ import './HeaderNav.css';
 
 import React, { Component } from 'react';
 import logo from '../../assets/images/logo_white.png';
+import { Link } from 'react-router-dom';
 
 export class HeaderNav extends Component {
 	render() {
 		return (
 			<div className="navbar__header">
 				<div className="image__logo">
-					<img src={logo} alt="" />
+					<Link to="/">
+						<img src={logo} alt="" />
+					</Link>
 					<h2>TealTube</h2>
 				</div>
 

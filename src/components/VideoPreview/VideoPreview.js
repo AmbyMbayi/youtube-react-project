@@ -18,7 +18,7 @@ export class VideoPreview extends Component {
 
 					<div className="video__info">
 						<div className="video__title">
-							<h2>High Order Component</h2>
+							<h2>High Order Components</h2>
 							<i class="bx bx-dots-vertical-rounded vertical__rounded" />
 						</div>
 						<div className="video__metadata">

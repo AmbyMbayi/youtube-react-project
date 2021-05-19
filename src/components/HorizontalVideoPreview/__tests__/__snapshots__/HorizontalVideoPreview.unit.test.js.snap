@@ -1,12 +1,12 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`VideoPreview renders 1`] = `
+exports[`horizontal video renders  1`] = `
 <div>
   <div
-    className="video__preview"
+    className="horizontal-video__preview"
   >
     <div
-      className="video__image"
+      className="horizontal-video__image"
       style={
         Object {
           "backgroundImage": "url(\\"https://ucarecdn.com/56ad9e87-c8e3-4b5f-8345-106c03f8e9bb/\\")",
@@ -14,17 +14,17 @@ exports[`VideoPreview renders 1`] = `
       }
     />
     <div
-      className="time__label"
+      className="horizontal-time__label"
     >
       <span>
         06:30
       </span>
     </div>
     <div
-      className="video__info"
+      className="horizontal-video__info"
     >
       <div
-        className="video__title"
+        className="horizontal-video__title"
       >
         <h2>
           High Order Components
@@ -34,30 +34,22 @@ exports[`VideoPreview renders 1`] = `
         />
       </div>
       <div
-        className="video__metadata"
+        className="horizontal-video__metadata"
       >
         <div
-          className="channel__image"
-          style={
-            Object {
-              "backgroundImage": "url(\\"https://pbs.twimg.com/profile_images/972606960842387457/CdsTvILr_400x400.jpg\\")",
-            }
-          }
-        />
-        <div
-          className="channel__info"
+          className="horizontal-channel__info"
         >
           <div
-            className="channel__details"
+            className="horizontal-channel__details"
           >
             <p
-              className="channel__title"
+              className="horizontal-channel__title"
             >
               React Mastery
             </p>
           </div>
           <div
-            className="subscription__info"
+            className="horizontal-subscription__info"
           >
             <span>
               2.1M Views 
