@@ -1,0 +1,9 @@
+.collapsed {
+    overflow-y: hidden;
+    max-height: 50px;
+    width: 1280px;
+}
+
+.expanded {
+    max-height: none;
+}

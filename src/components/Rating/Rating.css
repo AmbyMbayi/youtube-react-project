@@ -1,0 +1,13 @@
+.rating__icons {
+    width: fit-content;
+}
+
+.rating__icons i {
+    color: black;
+    font-size: 24px;
+    border: solid 1px red;
+}
+
+.rating__icons span {
+    width: fit-content;
+}

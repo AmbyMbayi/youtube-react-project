@@ -11,8 +11,6 @@ export class App extends Component {
 		return (
 			<div>
 				<Router>
-					<HeaderNav />
-
 					<Switch>
 						<Route exact path="/" component={Home} />
 						<Route exact path="/watch" component={Watch} />

@@ -1,0 +1,9 @@
+.watch__container {
+    padding-top: 70px;
+    padding-left: 100px;
+}
+
+.watch__video {
+    border: solid 1px red;
+    width: 1280px;
+}

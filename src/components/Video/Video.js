@@ -12,8 +12,8 @@ function Video(props) {
 	return (
 		<iframe
 			src={embedurl}
-			width={'560'}
-			height={'315'}
+			width={'1280'}
+			height={'720'}
 			frameBorder="0"
 			allow="autoplay; encrypted-media"
 			allowFullScreen
